@@ -1,0 +1,6 @@
+﻿namespace IsProgram
+{
+    class C
+    {
+    }
+}

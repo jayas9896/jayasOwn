@@ -1,0 +1,6 @@
+﻿namespace AsProgram
+{
+    class B
+    {
+    }
+}
